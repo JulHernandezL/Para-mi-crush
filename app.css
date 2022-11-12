@@ -1,0 +1,29 @@
+button:hover {
+  cursor: pointer;
+}
+
+h1 {
+  color: rgb(151, 10, 97);
+}
+
+.modo_sexo {
+  height: 300;
+  position: relative;
+  display: none;
+  width: 100%;
+  background-color: rgb(255, 87, 87);
+}
+
+#boton_si {
+  background-color: rgb(160, 4, 180);
+  border-color: rgb(110, 2, 138);
+  color: azure;
+  font-size: xx-large;
+  padding: 32 px;
+  text-align: center;
+  border-radius: 10px;
+  -webkit-border-radius: 10px;
+  -moz-border-radius: 10px;
+  -ms-border-radius: 10px;
+  -o-border-radius: 10px;
+}
